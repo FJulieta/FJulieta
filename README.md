@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👾 Hello There 👾 I´m Julieta, welcome to mi GIT  👩‍💻
 
 <!--
 **FJulieta/FJulieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
