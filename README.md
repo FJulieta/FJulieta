@@ -5,6 +5,13 @@
 
 <img src="https://github.com/FJulieta/FJulieta/assets/75277036/ccc74bf6-732a-43e0-8715-954b99b4a19e">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Redux-pink">
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-lightblue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Express-grey">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/Css-turquoise">
+
 
 ## About mi
 
