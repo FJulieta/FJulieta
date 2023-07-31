@@ -5,8 +5,10 @@
 
 <img src="https://github.com/FJulieta/FJulieta/assets/75277036/ccc74bf6-732a-43e0-8715-954b99b4a19e">
 
-(https://img.shields.io/REACT)
-
+[<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+](https://img.shields.io/badge/React-blue
+)
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
 
 ## About mi
 
@@ -25,16 +27,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FJulieta&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-**FJulieta/FJulieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
