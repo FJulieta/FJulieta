@@ -3,9 +3,15 @@
 
 <img src="https://github.com/FJulieta/FJulieta/assets/75277036/ccc74bf6-732a-43e0-8715-954b99b4a19e">
 
-![GitHub Analytics]([https://analytics.example.com/UA-XXXXXXXXX-X/your-repo/page-name](https://analytics.google.com/analytics/web/provision/#/a280106488p400740462/admin/property/settings))
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5B68NP4YH3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-
+  gtag('config', 'G-5B68NP4YH3');
+</script>
 <!--
 **FJulieta/FJulieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
