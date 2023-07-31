@@ -5,6 +5,18 @@
 
 <img src="https://github.com/FJulieta/FJulieta/assets/75277036/ccc74bf6-732a-43e0-8715-954b99b4a19e">
 
+(https://img.shields.io/REACT)
+
+
+## About mi
+
+- ⭐ Full Stack Developer ⭐ 
+- I am currently a full stack Teacher Assistant at Henry 🧑‍🏫
+- Actually working with this technologies: JavaScript, React, Redux, Express, Node.js, TypeScript, Next.js
+- Looking for new Challenges!!
+🌱 🌱 🌱 🌱 
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
