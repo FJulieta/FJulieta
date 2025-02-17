@@ -16,7 +16,6 @@
 ## About mi
 
 - ⭐ Full Stack Developer ⭐ 
-- I am currently a full stack Teacher Assistant at Henry 🧑‍🏫
 - Actually working with this technologies: JavaScript, React, Redux, Express, Node.js, TypeScript, Next.js
 - Looking for new Challenges!!
 🌱 🌱 🌱 🌱 
